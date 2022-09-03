@@ -1,0 +1,55 @@
+pais{
+    background-color: #2B4865;
+    margin-top: 50px ;
+    margin-left: 50px;
+    display: grid;
+    height:auto;
+    align-content: space-evenly;
+}
+
+departamento{
+    margin-top: 15px;
+    color: #8FE3CF;
+    display: grid;
+    column-gap: 10px;
+    align-content: center;
+    justify-content: start;
+    background-color: #256D85;
+    padding: 12px 20px;
+    width:300px;
+    border-radius: 15px;
+    position: relative;
+    margin-bottom:50px;
+    background: #002b5b;
+    background: linear-gradient(136deg,#002b5b 0%, #256d85 90%);
+    background: -webkit-linear-gradient(136deg,#002b5b 0%, #256d85 90%);
+    background: -moz-linear-gradient(136deg,#002b5b 0%, #256d85 90%);
+}
+departamento::before{
+    background-color: #2B4865;
+    width: 200px;
+    height: 30px;
+    content: "";
+    border-radius: 10px;
+    position: absolute;
+    top:-20px;
+    left:15px;
+   
+}
+
+cabecera{
+    position: absolute;
+    top:-15px;
+    left:35px
+}
+
+habitantes::before{
+    content: "habitantes: ";
+    font-weight: 600;
+    color:#F5EDDC;
+}
+altura::before{
+    content: "altura: ";
+    font-weight: 600;
+    color:#F5EDDC;
+}

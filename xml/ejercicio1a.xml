@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="ejercicio1a.css" ?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2012">
+        
+        <apellido>Galdamez</apellido>
+        <direccion>Colonia Buena vista</direccion>
+        <nombre>Miguel</nombre>
+    </ficha>
+</fichero> 

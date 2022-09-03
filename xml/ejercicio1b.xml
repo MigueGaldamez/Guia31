@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Miguel</nombre>
+        <apellido>Angel</apellido>
+        <direccion>Colonia Buena vista</direccion>
+    </ficha>
+    <ficha id="2" fechaingreso="1/11/2012">
+        <nombre>Miguel</nombre>
+        <apellido>Angel</apellido>
+        <direccion>Colonia Buena vista</direccion>
+        <telefono>73356794</telefono>
+        <email>miguel.galdamez@hotmail.com</email>
+        <webpersonal>Migue Galdamez/ github</webpersonal>   
+    </ficha>
+</fichero> 

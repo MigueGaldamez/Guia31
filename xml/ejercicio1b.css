@@ -1,0 +1,48 @@
+fichero{
+    background-color: #F1EFDC;
+    margin-top: 50px ;
+    margin-left: 50px;
+    display: grid;
+    height:auto;
+    align-content: space-evenly;
+}
+
+ficha{
+    margin-top: 15px;
+    color: #42032C;
+    display: grid;
+    column-gap: 10px;
+    align-content: center;
+    justify-content: start;
+}
+nombre{
+    background-color:#D36B00;
+    border-radius: 10px;
+    padding: 5px 12px;
+    color: aliceblue;
+    height: 16px;
+    width:50px;
+}
+apellido::before{
+    content: "Apellido: ";
+    font-weight: 100;
+    
+}
+apellido{
+    font-weight: 800;
+}
+direccion{
+    text-decoration:underline;
+   
+    top:44px;
+    left: 0px;
+    background-color: #E6D2AA;
+    padding: 5px 12px;
+    border-radius: 5px;
+    border-top-right-radius: 20px;
+}
+direccion::before{
+    content: "Dirección: ";
+    font-weight: 600;
+    text-decoration: none;
+}

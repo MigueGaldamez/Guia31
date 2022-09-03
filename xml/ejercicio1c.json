@@ -1,0 +1,34 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Miguel",
+				"apellido":"Angel",
+				"direccion":"Colonia Buena vista"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Miguel",
+				"apellido":"Angel",
+				"direccion":"Colonia Buena vista",
+				"telefono":"73356794",
+				"email":"miguel.galdamez@hotmail.com",
+				"webpersonal":"Migue Galdamez/ github"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Miguel",
+				"apellido":"Angel",
+				"direccion":"Colonia Buena vista",
+				"telefono":"73356794",
+				"email":"miguel.galdamez@hotmail.com",
+				"webpersonal":"Migue Galdamez/ github",
+				"dui":"06024421-6",
+				"isss":"060244",
+				"afp":"060244"
+			}
+		]}
+}
